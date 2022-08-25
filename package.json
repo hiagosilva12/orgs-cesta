@@ -6,7 +6,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "regenerate": "expo build:android"
+    "apk": "expo build:android",
+    "ipa": "expo build:ios"
   },
   "dependencies": {
     "@expo-google-fonts/montserrat": "^0.2.2",
